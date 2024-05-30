@@ -6,6 +6,7 @@ public class BankAppMainTest {
         System.out.println("Test");
         System.out.println("Test");
         System.out.println("Test");
+        System.out.println("Test");
 
     }
 
